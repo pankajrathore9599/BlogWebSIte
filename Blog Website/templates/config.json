@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/thunder",
+        "prod_uri": "mysql://root:@localhost/thunder",
+        "fb_uri": "https://www.facebook.com/pankaj.rathore.332",
+        "tw_uri": "teitter.com",
+        "gh_uri": "https://github.com/pankajrathore9599",
+        "blog_name": "003 Thunder Blog",
+        "tag_line": "Blog made for PG Guys",
+        "gmail_user": "globaleye9599",
+        "gmail_password": "global9599",
+        "about_text": "This blog is made up for a 003 PG Guys.",
+        "no_of_posts": 5,
+        "login_image":"login.svg",
+        "admin_user":"pankaj",
+        "admin_password": "pankaj9599"
+
+    }
+}
